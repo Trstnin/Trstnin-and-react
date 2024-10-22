@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 
 function Cards(props){
   console.log('props' , props);
